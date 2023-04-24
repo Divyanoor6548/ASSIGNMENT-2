@@ -1,0 +1,50 @@
+button{
+    text-align: center;
+    padding: 9px 10px;
+    color:black;
+    cursor:pointer;
+    border-radius:10px;
+}
+button:hover{
+    background-color:olive;
+}
+h2{
+    text-align: center;
+    font-size: 10px;
+    color:aliceblue
+}
+p{
+    text-align: justify;
+    color:black;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+img{
+    border-radius: 10px;
+    float:left;
+}
+.first,.second,.third{
+    background-color: rgba(207, 193, 193, 0.233);
+    border-radius: 30px;
+    border:2px solid brown;
+    margin: 100px;
+    padding: 30px;
+    height: 250px;
+}
+.main,.first,.second,.third{
+    padding:20px;
+    border: 10px;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-right:150px;
+}
+.main{
+    font-style: italic ;
+    background-color: rgb(187, 236, 255);
+    
+}
+a{
+    padding: 30px;
+    font-size:x-large;
+    text-decoration: none;
+}
